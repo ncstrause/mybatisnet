@@ -162,7 +162,7 @@ namespace MyBatis.DataMapper.Configuration.Serializers
         /// <param name="type">The <see cref="System.Type"/> to find the constructor in.</param>
         /// <param name="parametersName">The parameters name to use to find the appropriate constructor.</param>
         /// <returns>
-        /// An <see cref="ConstructorInfo"/> that can be used to create the type with
+        /// An ConstructorInfo that can be used to create the type with
         /// the specified parameters.
         /// </returns>
         /// <exception cref="DataMapperException">
