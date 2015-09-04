@@ -40,7 +40,7 @@ namespace Apache.Ibatis.DataMapper.Configuration.Sql.Dynamic.Elements
 	{
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="IsLessThan"/> class.
+        /// Initializes a new instance of the IsLessThan class.
         /// </summary>
         /// <param name="accessorFactory">The accessor factory.</param>
         public IsLessThan(AccessorFactory accessorFactory)
